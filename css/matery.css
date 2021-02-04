@@ -241,7 +241,9 @@ mark {
 }
 
 .bg-color {
-    background-image: linear-gradient(to right, #4cbf30 0%, #0f9d58 100%);
+    /* background-image: linear-gradient(to right, #4cbf30 0%, #0f9d58 100%); */
+    background-image: linear-gradient(to right, #00B0F6 0%, #0541BB 100%);
+    opacity: 0.8;
 }
 
 .text-color {
@@ -550,10 +552,10 @@ header .go-back i {
     height: 40vh !important;
 }
 
-.bg-cover:after {
+/* .bg-cover:after {
     -webkit-animation: rainbow 60s infinite;
     animation: rainbow 60s infinite;
-}
+} */
 
 .bg-cover:before,
 .bg-cover:after {
@@ -2138,3 +2140,13 @@ footer .copy-right {
     padding: 0;
     margin: 0;
 }
+canvas {
+    position: fixed;
+    right: 0px;
+    bottom: 0px;
+    min-width: 100%;
+    min-height: 100%;
+    height: auto;
+    width: auto;
+    z-index: -1;
+  }
