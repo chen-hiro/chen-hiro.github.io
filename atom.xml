@@ -3,11 +3,11 @@
   <title>宏😜微笑</title>
   
   <subtitle>Hiro</subtitle>
-  <link href="https://54hiro.cn/atom.xml" rel="self"/>
+  <link href="https://chen-hiro.github.io/atom.xml" rel="self"/>
   
-  <link href="https://54hiro.cn/"/>
+  <link href="https://chen-hiro.github.io/"/>
   <updated>2021-02-03T17:53:03.756Z</updated>
-  <id>https://54hiro.cn/</id>
+  <id>https://chen-hiro.github.io/</id>
   
   <author>
     <name>Hiro</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Tyora+PicGo</title>
-    <link href="https://54hiro.cn/posts/dadf.html"/>
-    <id>https://54hiro.cn/posts/dadf.html</id>
+    <link href="https://chen-hiro.github.io/posts/dadf.html"/>
+    <id>https://chen-hiro.github.io/posts/dadf.html</id>
     <published>2021-01-16T10:16:00.000Z</published>
     <updated>2021-02-03T17:53:03.756Z</updated>
     
@@ -40,8 +40,8 @@
   
   <entry>
     <title>SMMS图床配置</title>
-    <link href="https://54hiro.cn/posts/d7af.html"/>
-    <id>https://54hiro.cn/posts/d7af.html</id>
+    <link href="https://chen-hiro.github.io/posts/d7af.html"/>
+    <id>https://chen-hiro.github.io/posts/d7af.html</id>
     <published>2021-01-14T07:42:00.000Z</published>
     <updated>2021-02-03T17:53:03.755Z</updated>
     
@@ -63,8 +63,8 @@
   
   <entry>
     <title>图床(github)</title>
-    <link href="https://54hiro.cn/posts/dadf.html"/>
-    <id>https://54hiro.cn/posts/dadf.html</id>
+    <link href="https://chen-hiro.github.io/posts/dadf.html"/>
+    <id>https://chen-hiro.github.io/posts/dadf.html</id>
     <published>2021-01-14T01:25:00.000Z</published>
     <updated>2021-02-03T17:53:03.754Z</updated>
     
@@ -87,8 +87,8 @@
   
   <entry>
     <title>博客部署到github上</title>
-    <link href="https://54hiro.cn/posts/dadf.html"/>
-    <id>https://54hiro.cn/posts/dadf.html</id>
+    <link href="https://chen-hiro.github.io/posts/dadf.html"/>
+    <id>https://chen-hiro.github.io/posts/dadf.html</id>
     <published>2021-01-14T01:25:00.000Z</published>
     <updated>2021-02-03T17:53:03.757Z</updated>
     
