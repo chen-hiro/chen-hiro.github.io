@@ -6,7 +6,7 @@
   <link href="https://chen-hiro.github.io/atom.xml" rel="self"/>
   
   <link href="https://chen-hiro.github.io/"/>
-  <updated>2021-02-04T08:46:47.644Z</updated>
+  <updated>2021-02-03T17:53:03.756Z</updated>
   <id>https://chen-hiro.github.io/</id>
   
   <author>
@@ -17,18 +17,89 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://chen-hiro.github.io/2021/02/04/hello-world/"/>
-    <id>https://chen-hiro.github.io/2021/02/04/hello-world/</id>
-    <published>2021-02-04T08:46:47.644Z</published>
-    <updated>2021-02-04T08:46:47.644Z</updated>
+    <title>Tyora+PicGo</title>
+    <link href="https://chen-hiro.github.io/posts/dadf.html"/>
+    <id>https://chen-hiro.github.io/posts/dadf.html</id>
+    <published>2021-01-16T10:16:00.000Z</published>
+    <updated>2021-02-03T17:53:03.756Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+    <summary type="html">&lt;p&gt;打开 PicGo 软件的设置界面，进行 Server 的设置：&lt;/p&gt;
+&lt;p&gt;PicGo 设置 -&amp;gt; 设置 Server，开启 Server，监听地址不用进行更改，监听端口的值设置为 36677，这个值的获取在 Typora</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>SMMS图床配置</title>
+    <link href="https://chen-hiro.github.io/posts/d7af.html"/>
+    <id>https://chen-hiro.github.io/posts/d7af.html</id>
+    <published>2021-01-14T07:42:00.000Z</published>
+    <updated>2021-02-03T17:53:03.755Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;如果已经有 SMMS 账号的同学可以略过这一步&lt;/p&gt;
+&lt;p&gt;smms 账号注册&lt;a href=&quot;https://sm.ms/register&quot;&gt;点击这里&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>图床(github)</title>
+    <link href="https://chen-hiro.github.io/posts/dadf.html"/>
+    <id>https://chen-hiro.github.io/posts/dadf.html</id>
+    <published>2021-01-14T01:25:00.000Z</published>
+    <updated>2021-02-03T17:53:03.754Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;新建仓库，点击进入Settings&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.loli.net/2021/01/15/ftAauTeMw6ZXY1K.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;点击进入Developer settings&lt;/p&gt;
+&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>博客部署到github上</title>
+    <link href="https://chen-hiro.github.io/posts/dadf.html"/>
+    <id>https://chen-hiro.github.io/posts/dadf.html</id>
+    <published>2021-01-14T01:25:00.000Z</published>
+    <updated>2021-02-03T17:53:03.757Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;打开github，新建github仓库，注意：用户部署个人博客的github仓库的命名必须符合特定要求才行&lt;/p&gt;
+&lt;p&gt;（你的昵称+github.io）&lt;/p&gt;
+&lt;p&gt;&lt;img</summary>
         
       
     
