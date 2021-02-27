@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>宏😜微笑</title>
+  
+  <subtitle>Hiro</subtitle>
+  <link href="https://chen-hiro.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://chen-hiro.github.io/"/>
+  <updated>2021-02-22T14:18:26.118Z</updated>
+  <id>https://chen-hiro.github.io/</id>
+  
+  <author>
+    <name>Hiro</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>mybatis学习1</title>
+    <link href="https://chen-hiro.github.io/posts/d870.html"/>
+    <id>https://chen-hiro.github.io/posts/d870.html</id>
+    <published>2021-02-18T14:18:39.000Z</published>
+    <updated>2021-02-22T14:18:26.118Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="mybatis" scheme="https://chen-hiro.github.io/categories/mybatis/"/>
+    
+    
+    <category term="mybatis" scheme="https://chen-hiro.github.io/tags/mybatis/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>mybatis框架计划</title>
+    <link href="https://chen-hiro.github.io/posts/7d43.html"/>
+    <id>https://chen-hiro.github.io/posts/7d43.html</id>
+    <published>2021-02-18T14:04:41.000Z</published>
+    <updated>2021-02-20T07:38:33.224Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="mybatis" scheme="https://chen-hiro.github.io/categories/mybatis/"/>
+    
+    
+    <category term="mybatis" scheme="https://chen-hiro.github.io/tags/mybatis/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>springmvc学习1</title>
+    <link href="https://chen-hiro.github.io/posts/b817.html"/>
+    <id>https://chen-hiro.github.io/posts/b817.html</id>
+    <published>2021-02-18T13:36:02.000Z</published>
+    <updated>2021-02-20T07:39:02.298Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="springmvc" scheme="https://chen-hiro.github.io/categories/springmvc/"/>
+    
+    
+    <category term="springmvc" scheme="https://chen-hiro.github.io/tags/springmvc/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>springmvc计划</title>
+    <link href="https://chen-hiro.github.io/posts/3a11.html"/>
+    <id>https://chen-hiro.github.io/posts/3a11.html</id>
+    <published>2021-02-18T13:21:05.000Z</published>
+    <updated>2021-02-20T07:38:55.055Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="springmvc" scheme="https://chen-hiro.github.io/categories/springmvc/"/>
+    
+    
+    <category term="springmvc" scheme="https://chen-hiro.github.io/tags/springmvc/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Butterfly添加全局吸底Aplayer</title>
+    <link href="https://chen-hiro.github.io/posts/41e2.html"/>
+    <id>https://chen-hiro.github.io/posts/41e2.html</id>
+    <published>2021-02-17T14:54:00.000Z</published>
+    <updated>2021-02-17T09:56:45.962Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="hexo" scheme="https://chen-hiro.github.io/categories/hexo/"/>
+    
+    
+    <category term="hexo" scheme="https://chen-hiro.github.io/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Butterfly主题Valine评论美化</title>
+    <link href="https://chen-hiro.github.io/posts/dadf.html"/>
+    <id>https://chen-hiro.github.io/posts/dadf.html</id>
+    <published>2021-02-12T14:54:00.000Z</published>
+    <updated>2021-02-17T09:57:26.087Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="hexo" scheme="https://chen-hiro.github.io/categories/hexo/"/>
+    
+    
+    <category term="hexo" scheme="https://chen-hiro.github.io/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>为你的hexo博客添加全局吸底并且收入侧边栏的Aplaye</title>
+    <link href="https://chen-hiro.github.io/posts/78b9.html"/>
+    <id>https://chen-hiro.github.io/posts/78b9.html</id>
+    <published>2021-02-12T11:15:02.000Z</published>
+    <updated>2021-02-17T09:58:30.539Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="hexo" scheme="https://chen-hiro.github.io/categories/hexo/"/>
+    
+    
+    <category term="hexo" scheme="https://chen-hiro.github.io/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>如何在Hexo博客Butterfly主题开启Aplayer和“音乐”页面</title>
+    <link href="https://chen-hiro.github.io/posts/75b5.html"/>
+    <id>https://chen-hiro.github.io/posts/75b5.html</id>
+    <published>2021-02-12T11:15:02.000Z</published>
+    <updated>2021-02-17T09:58:21.823Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="hexo" scheme="https://chen-hiro.github.io/categories/hexo/"/>
+    
+    
+    <category term="hexo" scheme="https://chen-hiro.github.io/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Tyora+PicGo</title>
+    <link href="https://chen-hiro.github.io/posts/dadf.html"/>
+    <id>https://chen-hiro.github.io/posts/dadf.html</id>
+    <published>2021-01-16T10:16:00.000Z</published>
+    <updated>2021-02-17T09:58:02.523Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="hexo" scheme="https://chen-hiro.github.io/categories/hexo/"/>
+    
+    
+    <category term="PicGo" scheme="https://chen-hiro.github.io/tags/PicGo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>SMMS图床配置</title>
+    <link href="https://chen-hiro.github.io/posts/d7af.html"/>
+    <id>https://chen-hiro.github.io/posts/d7af.html</id>
+    <published>2021-01-14T07:42:00.000Z</published>
+    <updated>2021-02-17T09:57:51.204Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="hexo" scheme="https://chen-hiro.github.io/categories/hexo/"/>
+    
+    
+    <category term="图床" scheme="https://chen-hiro.github.io/tags/%E5%9B%BE%E5%BA%8A/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>图床(github)</title>
+    <link href="https://chen-hiro.github.io/posts/dadf.html"/>
+    <id>https://chen-hiro.github.io/posts/dadf.html</id>
+    <published>2021-01-14T01:25:00.000Z</published>
+    <updated>2021-02-17T09:57:42.875Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="hexo" scheme="https://chen-hiro.github.io/categories/hexo/"/>
+    
+    
+    <category term="图床" scheme="https://chen-hiro.github.io/tags/%E5%9B%BE%E5%BA%8A/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>博客部署到github上</title>
+    <link href="https://chen-hiro.github.io/posts/dadf.html"/>
+    <id>https://chen-hiro.github.io/posts/dadf.html</id>
+    <published>2021-01-14T01:25:00.000Z</published>
+    <updated>2021-02-17T09:58:12.241Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="hexo" scheme="https://chen-hiro.github.io/categories/hexo/"/>
+    
+    
+    <category term="github" scheme="https://chen-hiro.github.io/tags/github/"/>
+    
+  </entry>
+  
+</feed>
